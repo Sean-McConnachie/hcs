@@ -1,0 +1,9 @@
+[submodule "hcs-lib"]
+	path = hcs-lib
+	url = https://github.com/Sean-McConnachie/hcs-lib.git
+[submodule "hcs-client"]
+	path = hcs-client
+	url = https://github.com/Sean-McConnachie/hcs-client.git
+[submodule "hcs-server"]
+	path = hcs-server
+	url = https://github.com/Sean-McConnachie/hcs-server.git
